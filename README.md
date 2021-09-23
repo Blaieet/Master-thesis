@@ -25,18 +25,18 @@ that relationships between products affect a forecast performance.
 
 ### Structure
 
-* [Master Thesis report](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/Master%20Thesis%20Report.pdf)
-* [Original dataset](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/Data/)
-* [XGBoost model building & training (property of Accenture)](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/XGBoost/TFM%20Blai/TFM%20Blai.Rproj)
-* [Trained models](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/Models/Processed/)
-* [VAR model results](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/VAR%20Results/)
-* [XGBoost model results](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/XGBoost/TFM%20Blai/Evaluation%20Results/)
+* [Master Thesis report](https://github.com/Blaieet/Master-thesis/blob/main/Master%20Thesis%20Report%20-%20Blai%20Ras.pdf)
+* [Original dataset](https://github.com/Blaieet/Master-thesis/tree/main/Data)
+* ~~[XGBoost model building & training (property of Accenture)]()~~
+* [Trained models](https://github.com/Blaieet/Master-thesis/tree/main/Models/Processed)
+* [VAR model results](https://github.com/Blaieet/Master-thesis/tree/main/VAR%20Results)
+* [XGBoost model results](https://github.com/Blaieet/Master-thesis/tree/main/XGBoost%20Results)
 
 #### Notebooks
 
-* [Data cleaning and pre-processing](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/01.%20Preprocess.ipynb)
-* [Training and Evaluation of the VAR model](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/02.%20Training%20%26%20Evaluation%20(VAR).ipynb)
-* [XGBoost evaluation](https://bitbucket.org/blaiot/master_thesis_blai_ras/src/master/XGBoost/TFM%20Blai/Evaluation%20Results/)
+* [Data cleaning and pre-processing](https://github.com/Blaieet/Master-thesis/blob/main/01.%20Preprocess.ipynb)
+* [Training and Evaluation of the VAR model](https://github.com/Blaieet/Master-thesis/blob/main/02.%20Training%20%26%20Evaluation%20(VAR).ipynb)
+* ~~[XGBoost evaluation]()~~
 
 ### Contact
 
